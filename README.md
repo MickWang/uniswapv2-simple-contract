@@ -16,7 +16,7 @@ npx hardhat ignition deploy ./ignition/modules/Lock.ts
 
 ```
 npx hardhat run scripts/deploy.ts --network sepolia
-``
+```
 
 ```
 Deploying contracts with the account: 0x4f460A65Ee62F76CB5C91595E3F652340B3f02A0
